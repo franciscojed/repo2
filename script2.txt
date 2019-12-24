@@ -1,2 +1,3 @@
 first type line 24 dec 2019 9 40am before first blank commit
-second line added in win10 24 dec 2019 10 18am
+second line added in win10
+third line added with xubuntu18 and delete the date of the second line

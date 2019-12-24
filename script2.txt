@@ -1,5 +1,8 @@
 first type line 24 dec 2019 9 40am before first blank commit
 second line added in win10 (aqui iba algo pero lo borrarorn :p)
 third line added with xubuntu18 and delete the date of the second line
+<<<<<<< HEAD
 4 linea en win10 10 37aW :) L
 QUINTA LINEA
+=======
+>>>>>>> 1b37fa1584754d74764d261f0c772c2403970f97

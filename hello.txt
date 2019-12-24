@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 HOLA MUNDO **LINUX**
-=======
 HOLA mundo ---WINDOWS 10---
->>>>>>> e0831f5066ca8ab45bc94ca3e39453b72d93d933
+
